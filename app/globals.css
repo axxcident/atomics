@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Aeonik Pro Trial';
+  src: url('/fonts/AeonikProTRIAL-Regular.otf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Aeonik Pro Trial';
+  src: url('/fonts/AeonikProTRIAL-Light.otf') format('truetype');
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: 'Aeonik Pro Trial';
+  src: url('/fonts/AeonikProTRIAL-Bold.otf') format('truetype');
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Aeonik Pro Trial', sans-serif;
+}

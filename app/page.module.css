@@ -1,0 +1,46 @@
+.main {
+  background-image: url("/homepage.png");
+  background-size: cover;
+  padding: 6rem;
+  min-height: 90.7vh;
+  /* height: 95vh; */
+}
+
+.navbaren {
+  width: 100%;
+  padding: 1rem;
+  background-color: white;
+  border-bottom: solid 3px black;
+}
+
+.ulBar {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* .ulbar li {} */
+
+.ulBar li a {
+  text-decoration: none;
+  color: black;
+}
+
+#atomicCollaboration {
+  font-family: 'Aeonik Pro Trial';
+  font-weight: bold;
+  /* font-size: 5vw; */
+  font-size: 60px;
+}
+
+#menuBox {
+  /* height: 8vh;
+  width: 5vw; */
+  height: 70px;
+  width: 70px;
+}
+
+#theLogo {
+  width: 10%;
+}
